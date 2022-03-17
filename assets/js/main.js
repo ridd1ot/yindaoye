@@ -36,9 +36,9 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'https://blog.file.fllv.cn/fllvcn/images/bg01.jpg': 'center',
-							'https://blog.file.fllv.cn/fllvcn/images/bg02.jpg': 'center',
-							'https://blog.file.fllv.cn/fllvcn/images/bg03.jpg': 'center'
+							'/images/bg01.jpg': 'center',
+							'/images/bg02.jpg': 'center',
+							'/images/bg03.jpg': 'center'
 						},
 
 					// Delay.
